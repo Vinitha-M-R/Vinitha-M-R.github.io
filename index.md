@@ -1,11 +1,13 @@
-# Vinitha Rajan
-- First
-- Second
-- Third
+# VINITHA M RAJAN
 
-- This site was built using [GitHub Pages](https://pages.github.com/)
-
-```c
-#include <stdio.h>
-int main() {}
+## ACADEMIC PROFILE
 ```
+PhD Scholar
+Indian Institute Of Technology Palakkad.
+```
+```
+Master of Technology in Computer Science & Engineering
+College Of Engineering Trivandrum
+APJ Abdul Kalam Technological University, Trivandrum.
+```
+
